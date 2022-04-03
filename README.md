@@ -1,0 +1,2 @@
+# arig
+rig for navmesh
